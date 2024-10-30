@@ -6,5 +6,5 @@
 - **Model Types**: A look at the different types of LLMs.
 - **Exercise Solving**: Resolution of different exercises using pre-trained LLMs.
 
-## Contents
+## Notebooks
 - **`large_language_models_notes.ipynb`**: A Jupyter Notebook with initial explanations and code examples demonstrating core principles of LLMs.
